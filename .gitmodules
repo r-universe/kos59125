@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DYM"]
+	path = DYM
+	url = https://github.com/kos59125/dym
+	shallow = true
+	registered = true
 [submodule "naturalsort"]
 	path = naturalsort
 	url = https://github.com/kos59125/naturalsort

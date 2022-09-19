@@ -1,5 +1,9 @@
 [
   {
+    "package": "DYM",
+    "oncran": true
+  },
+  {
     "package": "naturalsort",
     "oncran": true
   }
